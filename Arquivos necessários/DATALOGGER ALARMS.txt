@@ -1,0 +1,852 @@
+02/06/2021    20:16:14    Gás detectado
+02/06/2021    20:16:14    Gás detectado
+02/06/2021    20:16:14    Gás detectado
+02/06/2021    20:16:14    Gás detectado
+02/06/2021    20:16:14    Gás detectado
+02/06/2021    20:16:14    Gás detectado
+02/06/2021    20:16:14    Gás detectado
+02/06/2021    20:16:14    Gás detectado
+02/06/2021    20:16:14    Gás detectado
+02/06/2021    20:16:14    Gás detectado
+02/06/2021    20:16:14    Gás detectado
+02/06/2021    20:16:14    Gás detectado
+02/06/2021    20:16:14    Gás detectado
+02/06/2021    20:16:14    Gás detectado
+02/06/2021    20:16:14    Gás detectado
+02/06/2021    20:16:14    Gás detectado
+02/06/2021    20:16:14    Gás detectado
+02/06/2021    20:16:14    Gás detectado
+02/06/2021    20:16:14    Gás detectado
+02/06/2021    20:16:14    Gás detectado
+02/06/2021    20:16:14    Gás detectado
+02/06/2021    20:16:14    Gás detectado
+02/06/2021    20:16:14    Gás detectado
+02/06/2021    20:16:14    Gás detectado
+02/06/2021    20:16:14    Gás detectado
+02/06/2021    20:16:14    Gás detectado
+02/06/2021    20:16:14    Gás detectado
+02/06/2021    20:16:14    Gás detectado
+02/06/2021    20:16:14    Gás detectado
+02/06/2021    20:16:14    Gás detectado
+02/06/2021    20:16:14    Gás detectado
+02/06/2021    20:16:14    Gás detectado
+02/06/2021    20:16:14    Gás detectado
+02/06/2021    20:16:14    Gás detectado
+02/06/2021    20:16:14    Gás detectado
+02/06/2021    20:16:14    Gás detectado
+02/06/2021    20:16:14    Gás detectado
+02/06/2021    20:16:14    Gás detectado
+02/06/2021    20:16:14    Gás detectado
+02/06/2021    20:16:14    Gás detectado
+02/06/2021    20:16:14    Gás detectado
+02/06/2021    20:16:14    Gás detectado
+02/06/2021    20:16:14    Gás detectado
+02/06/2021    20:16:14    Gás detectado
+02/06/2021    20:16:14    Gás detectado
+02/06/2021    20:16:14    Gás detectado
+02/06/2021    20:16:14    Gás detectado
+02/06/2021    20:16:14    Gás detectado
+02/06/2021    20:16:14    Gás detectado
+02/06/2021    20:16:14    Gás detectado
+02/06/2021    20:16:14    Gás detectado
+02/06/2021    20:16:14    Gás detectado
+02/06/2021    20:16:14    Gás detectado
+02/06/2021    20:16:14    Gás detectado
+02/06/2021    20:16:14    Gás detectado
+02/06/2021    20:16:14    Gás detectado
+02/06/2021    20:16:14    Gás detectado
+02/06/2021    20:16:14    Gás detectado
+02/06/2021    20:16:14    Gás detectado
+02/06/2021    20:16:14    Gás detectado
+02/06/2021    20:16:14    Gás detectado
+02/06/2021    20:16:14    Gás detectado
+02/06/2021    20:16:14    Gás detectado
+02/06/2021    20:16:14    Gás detectado
+02/06/2021    20:16:14    Gás detectado
+02/06/2021    20:16:14    Gás detectado
+02/06/2021    20:16:14    Gás detectado
+02/06/2021    20:16:14    Gás detectado
+02/06/2021    20:16:14    Gás detectado
+02/06/2021    20:16:14    Gás detectado
+02/06/2021    20:16:14    Gás detectado
+02/06/2021    20:16:14    Gás detectado
+02/06/2021    20:16:14    Gás detectado
+02/06/2021    20:16:14    Gás detectado
+02/06/2021    20:16:14    Gás detectado
+02/06/2021    20:16:14    Gás detectado
+02/06/2021    20:16:14    Gás detectado
+02/06/2021    20:16:14    Gás detectado
+02/06/2021    20:16:14    Gás detectado
+02/06/2021    20:16:14    Gás detectado
+02/06/2021    20:16:14    Gás detectado
+02/06/2021    20:16:14    Gás detectado
+02/06/2021    20:16:14    Gás detectado
+02/06/2021    20:16:14    Gás detectado
+02/06/2021    20:16:14    Gás detectado
+02/06/2021    20:16:14    Gás detectado
+02/06/2021    20:16:14    Gás detectado
+02/06/2021    20:16:14    Gás detectado
+02/06/2021    20:16:14    Gás detectado
+02/06/2021    20:16:14    Gás detectado
+02/06/2021    20:16:14    Gás detectado
+02/06/2021    20:16:14    Gás detectado
+02/06/2021    20:16:14    Gás detectado
+02/06/2021    20:16:14    Gás detectado
+02/06/2021    20:16:14    Gás detectado
+02/06/2021    20:16:14    Gás detectado
+02/06/2021    20:16:14    Gás detectado
+02/06/2021    20:16:14    Gás detectado
+02/06/2021    20:16:14    Gás detectado
+02/06/2021    20:16:14    Gás detectado
+42    Temperatura acima do recomendado
+02/06/2021    20:12:42    Temperatura acima do recomendado
+02/06/2021    20:12:42    Temperatura acima do recomendado
+02/06/2021    20:12:42    Temperatura acima do recomendado
+02/06/2021    20:12:42    Temperatura acima do recomendado
+02/06/2021    20:12:42    Temperatura acima do recomendado
+02/06/2021    20:12:42    Temperatura acima do recomendado
+02/06/2021    20:12:42    Temperatura acima do recomendado
+02/06/2021    20:12:42    Temperatura acima do recomendado
+02/06/2021    20:12:42    Temperatura acima do recomendado
+02/06/2021    20:12:42    Temperatura acima do recomendado
+02/06/2021    20:12:42    Temperatura acima do recomendado
+02/06/2021    20:12:42    Temperatura acima do recomendado
+02/06/2021    20:12:42    Temperatura acima do recomendado
+02/06/2021    20:12:42    Temperatura acima do recomendado
+02/06/2021    20:12:42    Temperatura acima do recomendado
+02/06/2021    20:12:42    Temperatura acima do recomendado
+02/06/2021    20:12:42    Temperatura acima do recomendado
+02/06/2021    20:12:42    Temperatura acima do recomendado
+02/06/2021    20:12:42    Temperatura acima do recomendado
+02/06/2021    20:12:42    Temperatura acima do recomendado
+02/06/2021    20:12:42    Temperatura acima do recomendado
+02/06/2021    20:12:42    Temperatura acima do recomendado
+02/06/2021    20:12:42    Temperatura acima do recomendado
+02/06/2021    20:12:42    Temperatura acima do recomendado
+02/06/2021    20:12:42    Temperatura acima do recomendado
+02/06/2021    20:12:42    Temperatura acima do recomendado
+02/06/2021    20:12:42    Temperatura acima do recomendado
+02/06/2021    20:12:42    Temperatura acima do recomendado
+02/06/2021    20:12:42    Temperatura acima do recomendado
+02/06/2021    20:12:42    Temperatura acima do recomendado
+02/06/2021    20:12:42    Temperatura acima do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado
+02/06/2021    20:12:36    Gás detectado e temperatura fora do recomendado

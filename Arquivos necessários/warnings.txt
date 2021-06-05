@@ -1,0 +1,2 @@
+C:\Users\eliez\Desktop\SISTEMA INTELIGENTE DE DETECÇÃO DE GAS Folder\Projeto Instrumentação LabVIEW\SISTEMA INTELIGENTE DE DETECÇÃO DE GAS.vi (SISTEMA INTELIGENTE DE DETECÇÃO DE GAS.vi)
+    - The VI expected to be at "C:\Users\eliez\Desktop\SISTEMA INTELIGENTE DE DETECÇÃO DE GAS Folder\Arquivos usados\Leitura imagem.vi" was loaded from "C:\Users\eliez\Desktop\SISTEMA INTELIGENTE DE DETECÇÃO DE GAS Folder\Arquivos necessários\Leitura imagem.vi".
